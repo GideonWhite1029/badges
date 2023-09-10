@@ -1,0 +1,30 @@
+<svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="56" height="56" rx="8.4" fill="url(#paint0_linear_7_20)"/>
+<g filter="url(#filter0_d_7_20)">
+<path d="M14.5954 31.1488L20.3276 15.1425H29.1368L27.3609 20.1046C27.3433 20.133 27.3258 20.1613 27.3082 20.1897L22.631 33.2896H26.9917C25.163 36.9616 23.7387 39.8396 22.7189 41.9237C14.6657 41.8528 12.415 37.2026 14.3844 31.7018M22.7541 41.9379L33.3744 29.6177H28.8731L32.7942 21.7208C39.511 22.2879 42.6761 26.5553 40.8122 31.7159C38.8253 37.2593 30.7721 41.9379 22.9299 41.9379C22.8596 41.9379 22.8068 41.9379 22.7541 41.9379Z" fill="url(#paint1_linear_7_20)"/>
+</g>
+<rect x="1.05" y="1.05" width="53.9" height="53.9" rx="7.35" stroke="white" stroke-opacity="0.15" stroke-width="2.1"/>
+<defs>
+<filter id="filter0_d_7_20" x="2.39972" y="2.39972" width="51.2006" height="51.2006" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="2.80014"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_7_20"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_7_20" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_7_20" x1="28" y1="0" x2="28" y2="56" gradientUnits="userSpaceOnUse">
+<stop stop-color="#51310D"/>
+<stop offset="1" stop-color="#200908"/>
+</linearGradient>
+<linearGradient id="paint1_linear_7_20" x1="32.3155" y1="18.6228" x2="24.7334" y2="50.6917" gradientUnits="userSpaceOnUse">
+<stop stop-color="#EF7829"/>
+<stop offset="0.0518954" stop-color="#F07529"/>
+<stop offset="0.3551" stop-color="#F0672B"/>
+<stop offset="0.6673" stop-color="#F15E2C"/>
+<stop offset="1" stop-color="#F15A2C"/>
+</linearGradient>
+</defs>
+</svg>
