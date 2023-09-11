@@ -51,10 +51,18 @@ HTML: ```<img alt="donation-alerts-cozy-minimal" height="40" src="https://gideon
 ![boosty-cozy-minimal](https://gideonwhite1029.github.io/badges/cozy-minimal-donation-alerts_vector.svg)
 
 ## Modpack Botania++
+### Compact
+MARKDOWN: ```![compact-botania++](https://gideonwhite1029.github.io/badges/compact-botania++_vector.svg)```
+
+
+HTML: ```<img alt="compact-botania++" height="40" src="https://gideonwhite1029.github.io/badges/compact-botania++_vector.svg">```
+### Result:
+![compact-botania++](https://gideonwhite1029.github.io/badges/compact-botania++_vector.svg)
+
 ### Cozy
 MARKDOWN: ```![botania++-cozy](https://gideonwhite1029.github.io/badges/cozy-botania++_vector.svg)```
 
 
 HTML: ```<img alt="botania++-cozy" height="40" src="https://gideonwhite1029.github.io/badges/cozy-botania++_vector.svg">```
 ### Result:
-![donation-alerts-cozy](https://gideonwhite1029.github.io/badges/cozy-botania++_vector.svg)
+![botania++-cozy](https://gideonwhite1029.github.io/badges/cozy-botania++_vector.svg)
